@@ -37,10 +37,8 @@ Unleash your full potential with these hotkey-activated cheats. From infinite ca
 
 ### Power & Combat
 - **F2** - *Infinite Energy*: Keep your power plants humming indefinitely.  
-- **F3** - *Infinite Ability Points*: Spam super-abilities like![Untitled](https://github.com/user-attachments/assets/eacc4846-cddd-434a-928f-e53963e04721)
- Artillery Barrage or Rebel Ambush.  
-- **F10** - *God Mode*: Make your units and ![Untitled](https://github.com/user-attachments/assets/caa541b9-f7b2-457a-9af9-ca368555078d)
-buildings indestructible.  
+- **F3** - *Infinite Ability Points*: Spam super-abilities like Artillery Barrage or Rebel Ambush.  
+- **F10** - *God Mode*: Make your units and buildings indestructible.  
 - **F11** - *Fast Superweapon Recharge*: Launch SCUD Storms, Nuclear Missiles, or EMP Pulses with no wait.  
 
 ---
